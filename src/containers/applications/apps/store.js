@@ -172,7 +172,7 @@ const DownPage = ({action, apps})=>{
         <div className="catbtn handcr" value={catg=="game"}
           onClick={()=>setCatg("game")}>Games</div>
         <div className="absolute right-0 mr-4 text-sm">
-          <a href="https://github.com/win11react/store"
+          <a href="https://github.com/aoticwise/store"
             className="catbtn" target="_blank" rel="noreferrer">Add your own app</a>
         </div>
       </div>
